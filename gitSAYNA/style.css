@@ -1,0 +1,182 @@
+body{
+    background-image: url("../gitSAYNA/img/background.png"); 
+    margin:0%;
+    padding:0%;
+    
+}
+
+
+.space{
+   width: 65%;
+}
+
+a{
+
+    text-decoration: none;
+    color: #ffff;
+    
+}
+.iconHead{
+    padding:1% 1% 1% 1%;
+}
+.iconHead a{
+    font-family: 'Courgette', cursive;
+}
+.menu a{
+   
+    font-family: Arial, sans-serif;
+    font-size: 80%;
+
+}
+
+.header{
+    margin: 0%;
+    background-color:#C55394;
+    height: 25%;
+    padding: 0%;
+
+}
+
+.nav{
+    display: flex;
+    padding: 0%;
+    margin: 0%;
+}
+.menu{
+    padding: 0%;
+    margin: 0%;
+ 
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0%;
+    margin: 0%;
+}
+
+.menu li a{
+    display: block;
+  
+    padding: 3vh 1vh;
+  
+}
+
+.menu a:hover {    
+       background-color: #EB43A3;
+  
+}
+.GrandTitre{
+   
+    background-image: url("../gitSAYNA/img/rainbow.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y:8%;
+    padding: 1%;
+    margin-top: 2%;
+  
+
+}
+.GrandTitre h1{
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    color: #C55394;
+    margin-top: 0%;
+    padding-top:4%;
+}
+
+.contenu{
+    padding: 1%;
+    margin-top: 0%;
+    background-color: #fff;
+    
+   margin-left: 20%;
+   margin-right: 20%;
+   
+    border-radius: 2%;
+    box-shadow: 5px 8px 8px 8px #888888;
+
+}
+.photo{
+    display: flex;
+}
+figure{
+    margin-block-start: 0%;
+    margin: 0%;
+    width: 25%;
+}
+img{
+    width: 100%;
+    margin-bottom: 0%;
+}
+figure div{
+    margin-right: 4%;
+}
+
+
+
+figcaption{
+    width: 100%;
+    bottom: 25px;
+    height: 25px;
+    color: #fff;
+    opacity: 0.7;
+    text-align: center;
+    position: relative;
+    background-color: #333; 
+   
+}
+
+.contTrouve{
+    display: flex;
+}
+
+iframe{
+    width:450px;
+}
+.text{
+   margin-left: 4%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    width: 60%;
+    padding: 2%;
+}
+button{
+    width: 30%;
+    margin-top: 3%;
+    padding: 2%;  
+    color:#FFF ;
+    background-color: #C55394 ;
+    border-color: #EB43A3;
+    border-radius:3%;
+}
+h3{
+    margin-top:40px;
+    font-family: 'Courgette', cursive;
+    color:#EB43A3;  
+}
+i{
+    padding-right: 1%;
+}
+h4{
+    color: #C55394;
+    font-family: 'Courgette', cursive;
+}
+p{
+    font-family: Arial, sans-serif;
+    font-size:75%;
+}
+footer{
+    margin-top:4%;
+    background-color:#C55394 ;
+    padding:1px;
+}
+footer p{
+    margin-left:85%;
+    color: #fff;
+
+}
